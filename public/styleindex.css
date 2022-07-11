@@ -1,0 +1,61 @@
+* {
+    background-color: #666666;
+}
+h1{
+    margin-left: 100px;
+
+}
+.menú {
+    display: flex;
+}
+
+
+input{
+    margin-left: 12px;
+}
+
+button{
+    margin-left: 300px;
+    background-color: black;
+    color: white;
+    width: 300px;
+    padding: 7px;
+}
+
+.titulo{
+    margin-left: 100px;
+    background-color: white;
+    padding: 7px;
+    width: 220px;
+    border-radius: 7px;
+}
+.descri{
+    background-color: white;
+    padding: 7px;
+    width: 270px;
+    border-radius: 7px;
+}
+.in{
+    margin: 7px;
+    color: white;
+}
+
+h2{
+    margin: 15px;
+}
+p{
+    margin: 15px;
+}
+
+.check{
+    margin-bottom: 10px;
+    transform: scale(1.7);
+
+}
+.notes{
+    margin-right: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    word-wrap: break-word;
+}
+
